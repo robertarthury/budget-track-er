@@ -14,9 +14,9 @@
   "author": "robertarthury",
   "license": "ISC",
   "bugs": {
-    "url": "https://intense-atoll-79547.herokuapp.com/ "
+    "url": "https://github.com/robertarthury/budget-track-er.git "
   },
-  "homepage": "https://intense-atoll-79547.herokuapp.com/",
+  "homepage": "https://github.com/robertarthury/budget-track-er.git",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
