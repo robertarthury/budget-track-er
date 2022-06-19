@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertarthury/budget-track-er.git"
+    "url": "https://github.com/robertarthury/budget-track-er.git"
   },
-  "author": "",
+  "author": "robertarthury",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robertarthury/budget-track-er/issues"
+    "url": "https://intense-atoll-79547.herokuapp.com/ "
   },
-  "homepage": "https://github.com/robertarthury/budget-track-er#readme",
+  "homepage": "https://intense-atoll-79547.herokuapp.com/",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
